@@ -1,4 +1,4 @@
-###Front-End developer
+### Front-End developer
 ## About me
 I am committed to automating everything around me and strive to contribute to society. With the help of web services, I simplify routine operations and improve people's quality of life. The fast pace of technological development in the IT industry is impressive: new startups and businesses emerge every day. If someone asked me what profession I would recommend to my children, it would be without hesitation in the IT field. The world is changing, and we need mathematicians and physicists who are capable of training neural networks in order to continue to develop successfully. I believe that the IT industry is the future of our world.
 
